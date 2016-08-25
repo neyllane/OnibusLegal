@@ -1,0 +1,39 @@
+
+Aluna: Neylane Estevam Rodrigues
+  
+ Projeto Interdiciplinar
+
+1-Qual e o problema?
+R- O Problema seria para facilitar a o usuario de adequirir uma passagem sem precisar se deslocar do seu local.
+
+2-É porque o problema e relevante?
+R- Com o aplicativo ira facilitar ao cliente de nao precisar ir a uma agencia de viagens.
+
+3-Quais sao os concorrentes?
+R- Os Concorrentes são os tipos de aplicativos para onibus.
+
+4-Qual e o publico alvo?
+R- O administrador e cliente.
+
+5-Existe mercado? porque?
+R- Sim.
+
+6-E viavel?
+R-sim.
+
+    Estoria do usuario
+
+1-sendo um administrador eu quero consultar se todos os lugares do onibus estao ocupados.
+  para assim poder ver o que posso fazer para sair com todos os lugares preenchido.
+
+2-como usuario posso visualizar horarios e rotas disponiveis e valores de passagens e promoções.
+  para obter uma melhor organizaçoes de meus gastos.
+
+3-sendo o administrador quero que acaso o onibus nao esteja completo eu possa informar aos meus 
+  clientes que estou de partida para um determinado lugar, e estou com onibus com vagas e promoçoes
+  de ultima hora.
+
+4-como usuario gostaria de fica sempre informado sobre novas promoções e pacotes de viagens.
+
+5-como usuario gostaria de obeter um cadastro no sistema onde posso estar informado com
+  as atualizações de novas promoções.
